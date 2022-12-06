@@ -5,14 +5,15 @@ import { CounterList } from './CounterList';
 const App = () => {
 
   return (
-    <CounterStateContext>
-      <div id="main">
-        <CounterList />
-      </div>
-    </CounterStateContext>
+//     <CounterStateContext>
+//       <div id="main">
+//         <CounterList />
+//       </div>
+//     </CounterStateContext>
 
   )
 }
 
 
 export default App;
+Footer
