@@ -10,4 +10,4 @@ export const Counter = ({value,onClick , id}) =>{
         
     )
 }
-Footer
+
